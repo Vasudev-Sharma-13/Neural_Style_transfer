@@ -37,15 +37,20 @@ Project based on the nueral style transfer based on the Coursera course
 
 [List and describe the key features of your project.]
 
-## Contributing
+# Neural Style Transfer using VGG19
 
-[Explain how others can contribute to your project. Provide guidelines for reporting bugs, suggesting enhancements, and submitting pull requests.]
+This is a Python script for performing neural style transfer using the VGG19 model in TensorFlow. Neural style transfer is a technique that combines the content of one image with the style of another image to create visually appealing and artistic results. This script utilizes the pre-trained VGG19 model to extract features from images and generate stylized images.
 
-## License
+## Prerequisites
 
-[Include information about the license under which your project is distributed. For example, if you use an open-source license like MIT, you can include the license text and a link to the full license.]
+Before running the script, ensure you have the following libraries installed:
 
-## Acknowledgments
+- TensorFlow
+- NumPy
+- Matplotlib
 
-[List any external resources, libraries, or individuals you'd like to acknowledge or give credit to for their contributions or inspiration in your project.]
+You can install these libraries using pip:
+
+```shell
+pip install tensorflow numpy matplotlib
 

@@ -1,4 +1,4 @@
-# Neural Style transfer
+# Neural Style transfer(Fix readme)
 Project from coursera on nueral style transfer with modification for newer version of tensorflow
 # Project Title
 

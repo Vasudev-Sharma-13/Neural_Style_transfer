@@ -2,7 +2,7 @@
 Project from coursera on nueral style transfer with modification for newer version of tensorflow
 # Project Title
 
-[Include a brief description or tagline about your project.]
+Project based on the nueral style transfer based on the Coursera course
 
 ## Table of Contents
 

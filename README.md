@@ -13,9 +13,7 @@ Project based on the nueral style transfer based on the Coursera course
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Features](#features)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
